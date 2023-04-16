@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Repositorio-pessoal",
+			"path": ".."
+		},
+		{
+			"name": "Calculadora",
+			"path": "../../../me/Projetos/Calculadora"
+		}
+	],
+	"settings": {}
+}
