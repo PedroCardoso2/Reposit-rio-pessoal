@@ -1,0 +1,28 @@
+*{
+    font-family: "Nunito", sans-serif;
+    background-color: #ccc;
+    
+}
+form{
+    text-align: center;
+}
+p{
+    text-decoration-color: black;
+}
+
+/* DEFININDO DE FORMA EXCLUDENTE */
+
+label[for], input[type="submit"], input[type="reset"] {
+    filter: brightness(0.8);
+}
+
+input[type="submit"], input[type="reset"] {
+    filter: brightness(0.8);
+    color: black;
+}
+
+img{
+    width: 60px;
+}
+  
+  

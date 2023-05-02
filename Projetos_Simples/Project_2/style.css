@@ -1,0 +1,30 @@
+*{
+    align-items: center;
+    font-family: "Source Sans Pro", sans-serif;
+    background-color:rgb(169, 216, 238) ;
+}
+form{
+    text-align: center;
+    font-size: 25px;
+}
+img{
+    width: 50px;
+    padding: 1px;
+    margin: 2px;
+    height: px;
+}
+p{
+    color: black;
+    text-shadow: 2px ;
+}
+div{
+    background: black;
+    width: 100%;
+}
+
+input.button{
+    color: black;
+    margin: auto;
+    
+
+}

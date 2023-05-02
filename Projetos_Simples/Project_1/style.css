@@ -1,0 +1,15 @@
+*{
+    background-color: #ccc;
+    text-align: center;
+}
+
+body{
+    font-family: "Vina Sans", sans-serif;
+}
+
+input#inVeiculo{
+    color: black;
+    margin: auto;
+    padding: 0%;
+    box-sizing: border-box;
+}
